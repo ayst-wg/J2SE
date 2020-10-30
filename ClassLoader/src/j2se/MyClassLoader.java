@@ -1,4 +1,4 @@
-package com.wanggang.j2se;
+package j2se;
 
 /**
  * @ClassName : MyClassLoader
